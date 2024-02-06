@@ -1,0 +1,35 @@
+.home {
+  height: 90vh;
+  background-color:  #1ABC9C !important;
+}
+.img {
+  width: 350px;
+}
+.home i{
+  color: white !important;
+}
+.home h2 {
+  position: relative;
+}
+/* .home h2::before {
+    left: 239px;
+    content: "";
+    position: absolute;
+    width: 90px;
+    height: 4px;
+    top: 127px;
+  background-color: whitesmoke;
+
+} */
+
+/* .home h2::after {
+  content: "";
+  position: absolute;
+  width: 90px;
+  height: 4px;
+  top: 127px;
+
+  background-color: whitesmoke;
+  right: 239px;
+}  */
+

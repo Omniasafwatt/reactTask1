@@ -1,0 +1,21 @@
+h2{
+    color: #2C3E50;
+}
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: #2C3E50;
+}
+.linestar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: #2C3E50;
+    font-size: 40px;
+    font-weight: 900 bold;
+}
+i{
+    color: #2C3E50;
+}

@@ -1,0 +1,27 @@
+.body{
+    background-color: #1ABC9C !important;
+    height: 90vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body i{
+    color: white !important;
+}
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
+.linestar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 700 bold;
+}

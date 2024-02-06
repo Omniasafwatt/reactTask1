@@ -1,0 +1,16 @@
+.containerr{
+    background-color: #2C3E50;
+    padding: 100px;
+    color: white;
+}
+.main-footer{
+    background-color: #1A252F;
+    color: white;
+    padding: 20px;
+}
+.icon{
+    color: white;
+    border: 1px white solid;
+    border-radius: 50px;
+    padding: 10px;
+}
